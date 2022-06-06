@@ -2,7 +2,7 @@
 /**
  * main - prints the phrase specicfied
  * outcome is the piece of art
- * Returns 0 on success
+ * Return: 0 on success
  */
 int main(void)
 {
