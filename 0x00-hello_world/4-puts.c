@@ -2,7 +2,7 @@
 #include <string.h>
 /**
  * main - prints the phrace
- * uses puts 
+ * uses puts
  * Return: 0 on success
  */
 int main(void)
