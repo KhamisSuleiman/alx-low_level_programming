@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * The main program prints the highlighted sentence
+ * main - prints the phrase specicfied
+ * outcome is the piece of art
+ * Returns 0 on success
  */
 int main(void)
 {
