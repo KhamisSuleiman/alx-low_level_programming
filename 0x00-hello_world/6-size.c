@@ -3,6 +3,7 @@
  * main - prints iszes
  * al sizes shown
  * Return: 0 on success
+ */
 int main()
 {
 	printf("size of char: %d byte(s)\n", sizeof(char));
