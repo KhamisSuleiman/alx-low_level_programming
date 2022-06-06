@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+/*Main description*/
 int main(void)
 {
 	char str1[] = "\"Programming is like building a multilingual puzzle";
