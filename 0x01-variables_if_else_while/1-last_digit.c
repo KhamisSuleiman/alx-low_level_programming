@@ -9,7 +9,7 @@
 int main(void)
 {
 	int n;
-	int rem;
+	int j;
 
 	printf("Last digit of %d is %d ", n, rem);
 	srand(time(0));
