@@ -19,6 +19,6 @@ int main(void)
 	else if (j == 0)
 		printf("and is zero\n");
 	else if (j < 6 && j !=0)
-		printf("and is less than 6 and not 0\n", n);
+		printf("and is less than 6 and not 0\n");
 	return (0);
 }
